@@ -15,7 +15,6 @@ body{
     height: 65px;
     display: flex;
     justify-content: space-around;
-    background: black;
     backdrop-filter: blur(10px);
     position: sticky;
     top:0px;
@@ -327,5 +326,6 @@ form input, textarea{
 
 
 }
+
 
 
